@@ -47,6 +47,8 @@ This exercise helped me learn:
 - Verifying and troubleshooting software setup
 - Working with AI development tools
 
+This exercise required independent research and troubleshooting when the referenced extensions were not available in the current Cursor Marketplace.
+
 ## Status
 
 Step 1 completed successfully.
