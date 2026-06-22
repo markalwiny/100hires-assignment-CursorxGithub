@@ -10,8 +10,6 @@
 
 **Guest:** Liam Darmody
 
-**Length:** Long-form Interview
-
 ---
 
 ## Expert Information
