@@ -8,8 +8,6 @@ Link: https://www.youtube.com/watch?v=SkR3XB6Bvq8
 
 Channel: Kajabi
 
-Length: Approximately 28 Minutes
-
 ---
 
 ## Expert Information
