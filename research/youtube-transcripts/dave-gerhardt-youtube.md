@@ -10,8 +10,6 @@ Host: Yogi (B2B Show)
 
 Guest: Dave Gerhardt
 
-Length: Long-form Interview
-
 ---
 
 ## Expert Information
