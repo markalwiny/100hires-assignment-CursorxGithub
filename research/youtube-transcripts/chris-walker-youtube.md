@@ -8,8 +8,6 @@ Link: https://www.youtube.com/watch?v=sDTC_78xqHk
 
 Speaker: Chris Walker
 
-Length: Short-form educational video
-
 ---
 
 ## Expert Information
