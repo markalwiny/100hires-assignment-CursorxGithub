@@ -13,45 +13,46 @@ Growth marketing, startup growth, B2B SaaS experimentation.
 ## Post 1
 
 Date:
-September 2025
+April 2025
 
 Link:
-https://www.linkedin.com/posts/majavoje_growth-marketing-isnt-about-hacks-activity-7441524039455459328
+https://www.linkedin.com/posts/majavoje_more-content-better-results-some-linkedin-activity-7320815014246801410-FjjS
 
 Summary:
-Maja explained that sustainable growth comes from understanding customer behavior rather than chasing short-term growth hacks. She emphasized building repeatable systems.
+Maja discussed the misconception that producing more content automatically leads to better results. She explained that strategic distribution and content quality have a greater impact on performance than sheer volume.
 
 Key Insight:
-Customer understanding creates more durable growth than tactics alone.
+More content does not guarantee better outcomes; strategic distribution matters.
 
 ---
 
 ## Post 2
 
 Date:
-August 2025
+January 2025
 
 Link:
-https://www.linkedin.com/posts/majavoje_the-best-growth-marketers-spend-more-time-activity-7434672349125451776
+https://www.linkedin.com/posts/majavoje_linkedin-viral-posts-are-a-huge-part-of-my-activity-7283438251154022400-3IxS
 
 Summary:
-Maja discussed the importance of customer interviews and research as a foundation for successful growth initiatives.
+Maja reflected on the role of viral LinkedIn posts in audience growth. She emphasized that while viral content can create awareness, long-term success comes from consistently delivering value.
 
 Key Insight:
-Research should guide experimentation.
+Virality attracts attention, but consistency builds trust.
 
 ---
 
 ## Post 3
 
 Date:
-July 2025
+December 2024
 
 Link:
-https://www.linkedin.com/posts/majavoje_every-successful-growth-program-starts-activity-7427318461250947072
+https://www.linkedin.com/posts/majavoje_focus-as-a-consultant-i-have-analyzed-activity-7277250864770170880-k1m0
 
 Summary:
-Maja shared a framework for growth programs, highlighting the role of hypothesis-driven testing and continuous iteration.
+Maja explored the importance of focus and positioning. She highlighted how successful companies often win by dominating a specific niche before expanding into broader markets.
 
 Key Insight:
-Experimentation is most effective when guided by clear hypotheses.
+Focused positioning creates stronger competitive advantages than broad targeting.
+
