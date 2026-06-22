@@ -10,8 +10,6 @@
 
 **Guest:** Maja Voje
 
-**Length:** Long-form Interview
-
 ---
 
 ## Expert Information
