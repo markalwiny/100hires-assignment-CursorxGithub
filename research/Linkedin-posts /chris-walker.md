@@ -6,50 +6,52 @@ LinkedIn:
 https://www.linkedin.com/in/chriswalker171/
 
 Focus:
-Demand generation, revenue marketing, B2B SaaS.
+Demand generation, revenue marketing, B2B SaaS growth.
+
+---
 
 ## Post 1
 
 Date:
-TBD
+April 2023
 
 Link:
-TBD
+https://www.linkedin.com/posts/chriswalker171_marketing-demand-gtm-activity-7051536933130309632-uvO2
 
 Summary:
-To be collected.
+Chris explained the difference between demand capture and demand creation. He argued that many B2B companies over-invest in capturing existing demand while under-investing in activities that create new demand.
 
 Key Insight:
-To be collected.
+Demand creation is often more valuable than demand capture for long-term growth.
 
 ---
 
 ## Post 2
 
 Date:
-TBD
+May 2024
 
 Link:
-TBD
+https://www.linkedin.com/posts/chriswalker171_marketing-advertising-linkedin-activity-7193231760950718464-8GPQ
 
 Summary:
-To be collected.
+Chris analyzed advertising and marketing metrics, highlighting how low cost-per-lead figures frequently fail to translate into meaningful business outcomes and revenue.
 
 Key Insight:
-To be collected.
+Lead volume alone is a poor indicator of marketing success.
 
 ---
 
 ## Post 3
 
 Date:
-TBD
+January 2023
 
 Link:
-TBD
+https://www.linkedin.com/posts/chriswalker171_b2b-marketing-content-activity-7017125539991740416-X69p
 
 Summary:
-To be collected.
+Chris discussed how some of the highest-performing content from a revenue perspective generated relatively low engagement. He emphasized focusing on business impact rather than vanity metrics.
 
 Key Insight:
-To be collected.
+Revenue impact matters more than likes, comments, and impressions.
