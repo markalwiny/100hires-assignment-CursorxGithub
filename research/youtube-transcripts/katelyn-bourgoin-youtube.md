@@ -10,8 +10,6 @@
 
 **Guest:** Katelyn Bourgoin
 
-**Length:** Long-form Interview
-
 ---
 
 ## Expert Information
