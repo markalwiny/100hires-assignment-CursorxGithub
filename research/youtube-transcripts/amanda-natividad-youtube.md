@@ -6,8 +6,6 @@ Title: Marketing & Content Mastery with Amanda Natividad | Ship 30 for 30
 
 Link: https://www.youtube.com/watch?v=IWnE1XY3_UI
 
-Duration: 57 Minutes
-
 Channel: Ship 30 for 30
 
 Speaker: Amanda Natividad (Marketing Architect, SparkToro)
