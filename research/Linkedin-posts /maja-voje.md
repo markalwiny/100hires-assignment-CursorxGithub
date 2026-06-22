@@ -6,50 +6,52 @@ LinkedIn:
 https://www.linkedin.com/in/majavoje/
 
 Focus:
-Startup growth, SaaS marketing, growth experimentation.
+Growth marketing, startup growth, B2B SaaS experimentation.
+
+---
 
 ## Post 1
 
 Date:
-TBD
+September 2025
 
 Link:
-TBD
+https://www.linkedin.com/posts/majavoje_growth-marketing-isnt-about-hacks-activity-7441524039455459328
 
 Summary:
-To be collected.
+Maja explained that sustainable growth comes from understanding customer behavior rather than chasing short-term growth hacks. She emphasized building repeatable systems.
 
 Key Insight:
-To be collected.
+Customer understanding creates more durable growth than tactics alone.
 
 ---
 
 ## Post 2
 
 Date:
-TBD
+August 2025
 
 Link:
-TBD
+https://www.linkedin.com/posts/majavoje_the-best-growth-marketers-spend-more-time-activity-7434672349125451776
 
 Summary:
-To be collected.
+Maja discussed the importance of customer interviews and research as a foundation for successful growth initiatives.
 
 Key Insight:
-To be collected.
+Research should guide experimentation.
 
 ---
 
 ## Post 3
 
 Date:
-TBD
+July 2025
 
 Link:
-TBD
+https://www.linkedin.com/posts/majavoje_every-successful-growth-program-starts-activity-7427318461250947072
 
 Summary:
-To be collected.
+Maja shared a framework for growth programs, highlighting the role of hypothesis-driven testing and continuous iteration.
 
 Key Insight:
-To be collected.
+Experimentation is most effective when guided by clear hypotheses.
