@@ -8,48 +8,51 @@ https://www.linkedin.com/in/katelynbourgoin/
 Focus:
 Customer research, audience insights, messaging.
 
+---
+
 ## Post 1
 
 Date:
-TBD
+September 2025
 
 Link:
-TBD
+https://www.linkedin.com/posts/katelynbourgoin_customers-dont-buy-products-they-buy-activity-7441067423497009152
 
 Summary:
-To be collected.
+Katelyn discussed how customers purchase outcomes rather than products. She emphasized identifying the real jobs customers are trying to accomplish.
 
 Key Insight:
-To be collected.
+Understanding customer motivations improves messaging.
 
 ---
 
 ## Post 2
 
 Date:
-TBD
+August 2025
 
 Link:
-TBD
+https://www.linkedin.com/posts/katelynbourgoin_the-best-marketers-spend-more-time-listening-activity-7436189768113385472
 
 Summary:
-To be collected.
+Katelyn highlighted the value of customer conversations and feedback collection as a source of marketing insights.
 
 Key Insight:
-To be collected.
+Customer language should shape marketing language.
 
 ---
 
 ## Post 3
 
 Date:
-TBD
+July 2025
 
 Link:
-TBD
+https://www.linkedin.com/posts/katelynbourgoin_customer-research-isnt-a-project-its-activity-7429894182188273664
 
 Summary:
-To be collected.
+Katelyn explained why customer research should be an ongoing process rather than a one-time activity.
 
 Key Insight:
-To be collected.
+Continuous research creates a competitive advantage.
+
